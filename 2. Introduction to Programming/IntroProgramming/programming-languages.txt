@@ -1,0 +1,16 @@
+C#:
+	C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and 	component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and 	ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure.
+	C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+Java:
+	Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few 	implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can 	run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java 	virtual machine (JVM) regardless of computer architecture. As of 2015, Java is one of the most popular programming languages in use, particularly for client-	server web applications, with a reported 9 million developers.[citation needed] Java was originally developed by James Gosling at Sun Microsystems (which has 	since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems' Java platform. The language derives much of its syntax 	from C and C++, but it has fewer low-level facilities than either of them.
+CSS :
+        Cascading Style Sheets (CSS) is a style sheet language used for describing the look and formatting of a document written
+        in a markup language. 
+PHP :
+        PHP is a server-side scripting language designed for web development but also used 
+        as a general-purpose programming language.
+        PHP code is interpreted by a web server with a PHP processor module, which generates the resulting web page:
+        PHP commands can be embedded directly into an HTML source document rather than calling an external file to process data.
+HTML :
+        HTML or HyperText Markup Language is the main markup language for creating web pages and other information that can be
+        displayed in a web browser.
